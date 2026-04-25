@@ -119,6 +119,3 @@ This project simulates a technical interview preparation environment using local
 
 MIT License (update if needed)
 
----
-* A system architecture diagram
-* A more impressive portfolio-style version for recruiters
