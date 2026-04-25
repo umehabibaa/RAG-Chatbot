@@ -61,8 +61,8 @@ ollama pull mxbai-embed-large
 ### 2. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone https://github.com/umehabibaa/RAG-Chatbot
+cd RAG-Chatbot
 ```
 
 ### 3. Install Dependencies
